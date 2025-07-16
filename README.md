@@ -18,3 +18,5 @@ Copy .tmux.congig.local home directory (if exist, add everything to the end of t
 ### Dependencies
 - [Oh-my-tmux](https://www.nordtheme.com/ports/tmux)
 - [Nord-theme](https://www.nordtheme.com/ports/tmux)
+
+#
